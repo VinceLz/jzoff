@@ -30,5 +30,5 @@ package src.com.lz.offer;
  * 经过上述平均时间复杂度还是为O(1),但是我们基于这个算法的前提是，该结点属于链表
  */
 
-public class Code {
+public class Code14 {
 }
